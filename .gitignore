@@ -1,0 +1,8 @@
+*.cache
+*.jou
+*.log
+*.runs
+*.str
+*.hw
+.DS_Store
+.vscode
